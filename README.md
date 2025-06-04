@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shakky24
+- 👋 Hi, I’m Shakthi
 
 <!---
 shakky24/shakky24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
